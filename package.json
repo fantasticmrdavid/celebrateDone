@@ -42,7 +42,7 @@
     "react-icons": "^5.0.0",
     "react-toastify": "^10.0.0",
     "sass": "^1.58.3",
-    "serverless-mysql": "^1.5.5",
+    "serverless-mysql": "^2.0.0",
     "sqlstring": "^2.3.3",
     "typescript": "5.7.2",
     "use-count-up": "^3.0.1",
